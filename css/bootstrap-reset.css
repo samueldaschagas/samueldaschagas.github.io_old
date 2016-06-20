@@ -1,0 +1,8 @@
+.nav > li > a {
+	border-bottom: 2px solid transparent;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: transparent;
+	border-bottom-color: #1abc9c;
+}
